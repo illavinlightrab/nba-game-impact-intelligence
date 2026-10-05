@@ -171,4 +171,3 @@ node frontend/tests/smoke.mjs
 5. 验证胜者合约映射，采集历史盘口，再评估含真实执行成本的模拟策略。
 6. 扩展已有新闻调度至赛程与市场数据，并加入经用户授权的外部通知。
 
-参考：[共享聊天框架](https://chatgpt.com/share/6ac25204-0370-83ec-829a-61dee52f1cd7)、[nba_api 的 ScheduleLeagueV2 数据结构](https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/endpoints/scheduleleaguev2.md)、[Polymarket 官方公开客户端的订单簿实现](https://github.com/Polymarket/py-clob-client/blob/main/py_clob_client/client.py)。外部接口会变化，真实连通性需要部署环境验证。
