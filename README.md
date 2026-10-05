@@ -351,7 +351,3 @@ pnpm build
 
 浏览器测试的隔离环境启动方法见 [架构说明](docs/architecture.md)。
 
-参考框架：[共享聊天记录](https://chatgpt.com/share/6ac25204-0370-83ec-829a-61dee52f1cd7)。
-
-## 数据使用不全，算法不够公平（胜率差距太大）
-## 看一下如何优化
